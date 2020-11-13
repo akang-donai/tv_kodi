@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="News",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1671028683_b384000_sleng.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1671028683_b280000_sleng.m3u8
+#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" group-title="News",CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1556931473_b384000_sleng.m3u8
+#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" group-title="News",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1556931473_b280000_sleng.m3u8
+#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="News",Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="News",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="News",Metro TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w835499301_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="News",Metro TV HD-1
+https://stream-02.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS4LtPW6vl4pSsvkP7uTVetc)/dm/3/x75p70w/d/live-3.m3u8
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="News",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w835499301_b1128000_sleng.m3u8
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="News",Metro TV-1
+https://stream-02.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS4LtPW6vl4pSsvkP7uTVetc)/dm/3/x75p70w/d/live-2.m3u8
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Entertainment",GTV HD
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="Entertainment",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png" group-title="Entertainment",RCTI HD
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png" group-title="Entertainment",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/2000px-MNCTV_MNC-Group.svg.png" group-title="Entertainment",MNCTV HD
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/2000px-MNCTV_MNC-Group.svg.png" group-title="Entertainment",MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Entertainment",SCTV HD
+https://cdn-livetv1.metube.id/hls/sctv_720/index.m3u8
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Entertainment",SCTV
+https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1 tvg-id="Female Radio 97.9 FM" tvg-logo="https://kitabisa-userupload-01.s3-ap-southeast-1.amazonaws.com/_production/partner/305/34_305_1506499679_58921561_f.jpg" radio="true",Female Radio 97.9 FM
+http://masima.rastream.com/masima-femaleradio
+#EXTINF:-1 tvg-id="Gen Radio 98.7 FM" tvg-logo="https://miro.medium.com/max/1280/0*y5KCmrTx1t7oi6Ur.jpg" radio="true",Gen Radio 98.7 FM
+https://wow4.mahakaradiointegra.com:1936/web_genfm/genfm/chunklist_w175219012.m3u8
+#EXTINF:-1 tvg-id="Mustang 98.7 FM" tvg-logo="https://2.bp.blogspot.com/-ivEvJi-QG2U/Wmmnbw2XIKI/AAAAAAAAWMU/HYhqIFFZ9EorCZDFBKWGMf9TBts-6C8NgCK4BGAYYCw/w1200-h630-p-k-no-nu/Mustang-Fm-Live-Streaming-88.0-MHz-Jakarta.JPG" radio="true",Mustang 98.7 FM
+https://wow4.mahakaradiointegra.com:1936/web_mustangfm/mustangfm/chunklist_w2128760601.m3u8
+#EXTINF:-1 tvg-id="Jak FM" tvg-logo="https://static-media.streema.com/media/cache/b0/f1/b0f15e0f00b1a259ce126ef50b94e275.jpg" radio="true",Jak 101 FM
+https://wow4.mahakaradiointegra.com:1936/web_jakfm/jakfm/chunklist_w1349085667.m3u8
+#EXTINF:-1 tvg-id="HardRock 87.6 FM" tvg-logo="https://lalalafest.com/wp-content/uploads/2018/03/HARDROCK-FM-JAKARTA.png" radio="true",HardRock 87.6 FM Jakarta
+http://cloudstreaming.mramedia.com:8001/live
+#EXTINF:-1 tvg-id="HardRock 87.7 FM Bandung" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vXmfTu7nXh.png" radio="true",HardRock 87.7 FM Bandung
+http://cloudstreaming.mramedia.com:8010/live
+#EXTINF:-1 tvg-id="HardRock 87.8 FM Bali" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ez3L8yD3b3.png" radio="true",HardRock 87.8 FM Bali
+http://cloudstreaming.mramedia.com:8012/live
+#EXTINF:-1 tvg-id="HardRock 89.7 FM Surabaya" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/9Scch6jwWu.png" radio="true",HardRock 89.7 FM Surabaya
+http://cloudstreaming.mramedia.com:8011/live
+#EXTINF:-1 tvg-id="iRadio 89.6 FM Jakarta" tvg-logo="https://xmlmalezserver.listen2myapp.com/account/users.assets/21/big_logo_21_1518616025.png" radio="true",iRadio 89.6 FM Jakarta
+http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1 tvg-id="Delta 99.1 FM Jakarta" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hswFPaygeD.png" radio="true",Delta 99.1 FM Jakarta
+http://live.masima.cloud:9002/stream
+#EXTINF:-1 tvg-id="Bahana 101.8 FM" tvg-logo="https://www.bahanafm.co.id/assets/bahana.png" radio="true",Bahana 101.8 FM
+http://live.masima.cloud:8100/stream
+#EXTINF:-1 tvg-id="TRAX 101.4 FM" tvg-logo="https://static-media.streema.com/media/cache/e2/16/e2167cb5eed62c9dda8eda4fcb29f3aa.jpg" radio="true",TRAX 101.4 FM
+https://n0b.radiojar.com/rrqf78p3bnzuv.mp3
+#EXTINF:-1 tvg-id="Prambors Jakarta" tvg-logo="https://lalalafest.com/wp-content/uploads/2018/03/PRAMBORS-JAKARTA.png" radio="true",Prambors 102.2 FM Jakarta
+http://masima.rastream.com/masima-pramborsjakarta
+#EXTINF:-1 tvg-id="Prambors Semarang" tvg-logo="https://s26.postimg.cc/ic1wi3q55/PRAMBORS_FM.gif" radio="true",Prambors 102 FM Semarang
+http://masima.rastream.com/masima-pramborssemarang
+#EXTINF:-1 tvg-id="Prambors Bandung" tvg-logo="https://lalalafest.com/wp-content/uploads/2018/03/PRAMBORS-BANDUNG.png" radio="true",Prambors 98.4 FM Bandung
+http://masima.rastream.com/masima-pramborsbandung
+#EXTINF:-1 tvg-id="Prambors Surabaya" tvg-logo="https://lalalafest.com/wp-content/uploads/2018/03/Prambors-Surabaya.png" radio="true",Prambors 89.3 FM Surabaya
+http://masima.rastream.com/masima-pramborssurabaya
+#EXTINF:-1 tvg-id="Paduka Purwokerto" tvg-logo="https://lh3.googleusercontent.com/proxy/NtctVCjRZB-gYSIRlGjEiDLrjtydblWb-FjrF3mHy_LZj6_bdSMozYa7iyGoRHkmDWlqXKncKLB_-FjoCtjurWgsehC4NBhtK_Qq3PoSVUvv0-CuXoN-ippbYZGv_33iA8aCMw3fUWvV-zscJutj-8LsFA" radio="true",Paduka 100.6 FM Purwokerto
+http://paduka.id.myradio.web.id:8888/padukafm
+#EXTINF:-1 tvg-id="NBS Sukabumi" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/grfkzybx8bby.jpg" radio="true",NBS 92.3 FM Sukabumi
+http://stream.suararadio.com:8000/sukabumi_nbsfm
+#EXTINF:-1 tvg-id="NBS Sukabumi" tvg-logo="https://lh3.googleusercontent.com/proxy/dM9MnD4p7Tf2GkIYHBrpvz447_dfoG1oASjIFX-wBrVNcFf6wyWR5f4BLVs_0IVjRfV-iW0zNJAmvotqGUllhzTqF1Or-ofSjEWCaAOmDOpiHPeqn9P71Jn85i7zcEvyyp-ye2rCwz71CjEVYCP7cwRW1CA" radio="true",Sonora 92 FM Jakarta
+http://101.50.1.250:8000/sonora.aac
+#EXTINF:-1 tvg-id="Ardan Bandung" tvg-logo="https://radio-online.id/assets/image/radio/180/ardan-fm.jpg" radio="true",Ardan 105.9 FM Bandung
+http://listento.ardanradio.com:1059/
+#EXTINF:-1 tvg-id="OZ Bandung" tvg-logo="https://1.bp.blogspot.com/-TVZaUh33MzA/XTc3_7fZEWI/AAAAAAAAHfI/O9RtXEjiDts_-EV2bzHCHFgvIERqUicYwCLcBGAs/s1600/OZ_radio_Bandung.png" radio="true",OZ 103.1 FM Bandung
+http://s3.vinhostmedia.com:1031/;stream/1
+#EXTINF:-1 tvg-id="Indika Jakarta" tvg-logo="https://indikafm.com/wp-content/uploads/2020/08/indika-1.png" radio="true",Indika 91.6 FM Jakarta
+https://s2.radio.co/sf58a82d7d/listen
+#EXTINF:-1 tvg-id="Elshinta Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Elshinta-90.jpg" radio="true",Elshinta 90 FM Jakarta
+http://202.137.4.147:8000/
+#EXTINF:-1 tvg-id="Virgin Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/Virginradiojakarta.png/200px-Virginradiojakarta.png" radio="true",Virgin 99.9 FM Jakarta
+https://14933.live.streamtheworld.com/VIRGINRADAAC_SC
